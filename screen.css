@@ -1,0 +1,58 @@
+/* @media only screen and  (max-width:400px){
+    .nasa-logo{
+        display: none;
+    }
+    .art-main{
+        margin-top: 800px;
+    }
+    .home-view2{
+        margin-top:30% !important; 
+    }
+    .reverse{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .text-view{
+        width: 100% !important;
+        font-size: 11px ; 
+    }
+    .home-view{
+        width: 100% !important;
+    }
+    .text-view>button{
+        padding: 5px 20px ;
+        font-size: 10px ;
+        border-radius: 6px ;
+        background-color: rgb(185, 24, 24);
+        color: white;
+    }
+    
+    .main-box{
+        
+        height: 1300px ;
+    } 
+    .intership-text>h1{
+        font-size: 2.5rem !important;
+    }
+    .heading-news h1{
+        font-size: 2rem !important;
+    
+    }
+
+    .section-one{
+        height: 800px;
+    }
+    .section-six{
+        height: 900Px;
+    }
+    .news-release{
+        margin-top: 250px ;
+    }
+    .font-weight-h4{
+        font-size: 16px ;
+    }
+    .article {
+        margin-top: 260px ;
+    }
+  
+} */

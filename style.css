@@ -1,0 +1,217 @@
+@font-face {
+    font-family: psans;
+    src: url(assests/fonts/Public_Sans/PublicSans-Italic-VariableFont_wght.ttf);
+
+}
+
+@font-face {
+    font-family: rmono;
+    src: url(assests/fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf);
+}
+
+.container-xxl {
+    margin: -10px;
+}
+
+.nasa-logo {
+    width: 80px;
+}
+
+.nasa-logo>img {
+
+    margin-left: 50px !important;
+}
+
+.search-icon {
+    display: none;
+}
+
+.text-color {
+    color: white !important;
+
+}
+
+.font-weight {
+    font-size: 1.1rem !important;
+    font-weight: 900 !important;
+}
+
+.text-black {
+    color: black !important;
+
+}
+
+.nav-item span {
+    font-size: 14px;
+    padding: 0em 1em;
+    border: red dotted 2px;
+}
+
+.bgblack {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.bgwhite {
+    background-color: white !important;
+}
+
+.navbar input::placeholder {
+    color: grey !important;
+}
+
+/* s1 */
+.section-one {
+
+    background: linear-gradient(rgba(56, 55, 55, 0.5), rgba(0, 0, 0, 0.5)),
+        url(assests/images/nova\ moon.png) no-repeat center center/cover;
+}
+
+.home-view {
+    padding-top: 10%;
+    width: 60% !important;
+
+}
+
+.descriptions>h1 {
+    width: 100%;
+    font-size: 4.4em;
+    color: white;
+    font-family: ps;
+    font-weight: 600;
+
+}
+
+.descriptions>p {
+    color: white;
+    width: 80%;
+    font-family: sans-serif;
+    font-weight: 800;
+
+}
+
+.descriptions>button {
+    padding: 10px 36px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: rgb(185, 24, 24);
+    color: white;
+}
+
+.descriptions2 {
+
+    height: 230px;
+    padding-top: 30pX;
+}
+
+.descriptions2 p {
+    word-spacing: 3px;
+    font-size: 15px;
+    font-weight: 800;
+    font-family: rmono;
+
+
+
+}
+
+::before {
+
+    color: red;
+}
+/*  */
+.news-box1 {
+    margin: 10px 0px;
+    height: 100%;
+}
+
+.news-box1>img {
+    filter: brightness(70%);
+
+}
+
+.text-upper {
+
+    position: relative;
+    bottom: 100%;
+    padding: 0px 6px;
+
+}
+
+.news-release {
+
+    display: flex;
+    flex-direction: column;
+    height: 30%;
+    margin-top: 42%;
+
+}
+
+
+.text-upper p {
+    font-family: dm-mono-light;
+    font-size: 0.7em;
+
+}
+
+.main-box {
+    height: 412px !important;
+    /* margin: 10px 2px !important; */
+}
+
+/* News Box 2 start from here Article  */
+.news-box2 {
+    margin: 10px 0px;
+    height: 100% !important;
+}
+
+.news-box2>img {
+    filter: brightness(70%);
+}
+
+.article {
+    display: flex;
+    flex-direction: column;
+    height: 30%;
+    margin-top: 60%;
+}
+
+.font-weight-h4 {
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+/* News box 3 start from here */
+
+.news-box3 {
+    margin: 10px 0px;
+    height: 100%;
+}
+
+.news {
+    background-color: #fff;
+    margin: 50px;
+}
+
+.heading-news {
+    margin: 4% 0%;
+}
+
+.heading-h6 {
+    display: flex;
+    align-items: center;
+}
+
+.text-upper1 {
+    height: 10px;
+}
+
+.news-release1 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 100px;
+    padding: 0px 10px;
+}
+
+
+
+
